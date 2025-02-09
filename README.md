@@ -14,4 +14,4 @@ The primary purpose of this repository is threefold:
 
 ## License (Optional)
 
-(Add a license if you want to specify how others can use your work.  If you don't include a license, others might be unsure about how they can use your code.) This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+(Add a license if you want to specify how others can use your work.  If you don't include a license, others might be unsure about how they can use your code.) This project is licensed under the MIT License - see the [LICENSE](https://github.com/Yoge-ra/Analysis_projects/blob/main/LICENSE) file for details.
